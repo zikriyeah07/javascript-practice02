@@ -1,0 +1,1 @@
+let license = prompt("   ");
